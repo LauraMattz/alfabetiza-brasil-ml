@@ -11,6 +11,7 @@ O objetivo é ir além da teoria, aplicando técnicas de **Data Science** a **da
 
 1. [Exercícios e projetos](#exercícios-e-projetos)
    - [K-Means e clusterização](#k-means-e-clusterização)
+   - [Regressão Linear](#Regressão-Linear)
 ---
 
 ## 🎓 Sobre o curso
